@@ -2,21 +2,21 @@
 
 ### WSL Setup
 
-[Install]('https://docs.microsoft.com/pt-br/windows/wsl/wsl2-install')
+[Install](https://docs.microsoft.com/pt-br/windows/wsl/wsl2-install)
 
 ### Softwares
 
 #### VS Code
 
- - [Download]('https://code.visualstudio.com/download')
+ - [Download](https://code.visualstudio.com/download)
  - Sync
  - Material Theme Icons
  - Monokai Pro
 
 #### Windows terminal
 
- - [Download]('https://github.com/microsoft/terminal')
- - [Materialshell]('https://github.com/carloscuesta/materialshell')
+ - [Download](https://github.com/microsoft/terminal)
+ - [Materialshell](https://github.com/carloscuesta/materialshell)
 
 ### Packages
 
@@ -34,8 +34,8 @@ sudo apt install zsh
 ```
 
 ##### Oh my zsh
-[Install]('https://ohmyz.sh/#install')
-[zsh-nvm]('https://github.com/lukechilds/zsh-nvm')
+[Install](https://ohmyz.sh/#install)
+[zsh-nvm](https://github.com/lukechilds/zsh-nvm)
 
 ```shell
 // .zshrc
